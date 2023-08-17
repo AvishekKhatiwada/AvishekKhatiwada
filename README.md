@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avishek Khatiwada</h1>
 <h3 align="center">Hi, I'm Avishek Khatiwada, a student developer with a passion for building web and mobile applications. I'm an expert in.NET and Laravel, and I'm always interested in picking up new skills. Additionally, I'm a really motivated and results-driven person, and I'm certain that I can add a lot to your team. I'm sure I'd make a great addition to your team, and I'm eager to find out more about your business and the chances you're offering.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avishekkhatiwada" alt="avishekkhatiwada" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/khatiwadaavish1" target="blank"><img src="https://img.shields.io/twitter/follow/khatiwadaavish1?logo=twitter&style=for-the-badge" alt="khatiwadaavish1" /></a> </p>
-
 - 🌱 I’m currently learning **Entity-Framework,React**
 
 - 👨‍💻 All of my projects are available at [avishekkhatiwada.com.np](avishekkhatiwada.com.np)

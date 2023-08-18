@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avishek Khatiwada</h1>
+<h3 align="center">Developer</h3>
+
 # 💫 About Me:
 Hi, I'm Avishek Khatiwada, a student developer with a passion for building web and mobile applications. I'm an expert in.NET and Laravel, and I'm always interested in picking up new skills. Additionally, I'm a really motivated and results-driven person, and I'm certain that I can add a lot to your team. I'm sure I'd make a great addition to your team, and I'm eager to find out more about your business and the chances you're offering.
 
